@@ -57,7 +57,7 @@ const EventDetails: React.FC = () => {
             href="#"
             className="group relative inline-flex items-center justify-center px-8 py-4 font-bold text-black transition-all duration-200 bg-emerald-500 font-mono tracking-widest uppercase hover:bg-emerald-400 active:scale-95 shadow-[0_0_20px_rgba(16,185,129,0.3)] w-full md:w-auto"
           >
-            Register Here
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeFo5DNRA4PUIvrpMubC3pYr0Yl5FqFJmb9rqAzKD3MSz1ltw/viewform?usp=dialog">Register Here</a>
             <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
           </a>
         </div>
