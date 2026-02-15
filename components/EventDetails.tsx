@@ -16,8 +16,10 @@ const EventDetails: React.FC = () => {
 
       <div className="space-y-6 text-emerald-100/90 leading-relaxed max-w-2xl">
         <p className="text-lg">
-          If you caught that bug, or if you need help catching bugs like it, join our <span className="text-emerald-400 font-bold underline decoration-emerald-800 underline-offset-4">Peer-to-Peer Hub</span>. We are seniors helping juniors master technical concepts like pointers, algorithms, and calculus.
-        </p>
+          If you caught that bug, or if you need help catching bugs like it, join our <span className="text-emerald-400 font-bold underline decoration-emerald-800 underline-offset-4">connect()</span>.
+ 
+        </p> 
+        <p className="text-lg"> Run entirely by fellow IT students, this session is a casual space to tackle IT units concepts and lab struggles together. We’ve been in your shoes and are here to help you clear up doubts on any of the units listed below.</p>
 
         <div className="bg-emerald-900/10 border border-emerald-900/40 p-4 rounded-lg">
           <p className="text-xs font-bold text-emerald-500 uppercase tracking-widest mb-2 opacity-70">

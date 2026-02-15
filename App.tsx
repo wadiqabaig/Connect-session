@@ -43,7 +43,7 @@ const App: React.FC = () => {
       <div className="w-full max-w-4xl relative z-10">
         <header className="mb-12 text-center">
           <h1 className="text-4xl md:text-6xl font-black text-emerald-500 mb-4 tracking-tighter">
-            P2P_HUB_ACCESS
+            connect()
           </h1>
           <p className="text-emerald-700 font-mono text-sm md:text-base uppercase tracking-[0.2em]">
             Permission: RESTRICTED // Role: STUDENT_DEBUGGER
